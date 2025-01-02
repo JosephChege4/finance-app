@@ -4,9 +4,9 @@ An exercise to put to practice software development teamwork, subsystem communic
 
 # Build Badge
 
-[![Backend CI / CD](https://github.com/software-students-fall2024/5-final-super-awesome-team-name-2/actions/workflows/backend.yml/badge.svg)](https://github.com/software-students-fall2024/5-final-super-awesome-team-name-2/actions/workflows/backend.yml)
+[![Backend CI / CD](https://github.com/JosephChege4/finance_app/actions/workflows/backend.yml/badge.svg)](https://github.com/JosephChege4/finance_app/actions/workflows/backend.yml)
 
-[![Frontend CI/CD](https://github.com/software-students-fall2024/5-final-super-awesome-team-name-2/actions/workflows/frontend.yml/badge.svg)](https://github.com/software-students-fall2024/5-final-super-awesome-team-name-2/actions/workflows/frontend.yml)
+[![Frontend CI/CD](https://github.com/JosephChege4/finance_app/actions/workflows/frontend.yml/badge.svg)](https://github.com/JosephChege4/finance_app/actions/workflows/frontend.yml)
 
 ## Description
 
@@ -51,7 +51,7 @@ Outside of MongoDB, this project consists of two main subsystems:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/software-students-fall2024/5-final-super-awesome-team-name-2.git
+   git clone https://github.com/JosephChege4/finance_app.git
    cd 5-final-super-awesome-team-name-2
    ```
 
@@ -61,7 +61,7 @@ Outside of MongoDB, this project consists of two main subsystems:
    ```
 
 3. Access the application:
-   You can access the application through Digital Ocean using the following link: [http://68.183.21.82:5000/](http://68.183.21.82:5000/).
+   You can access the application through Digital Ocean using the following link: [OLD LINK - NEED TO UPDATE](http://68.183.21.82:5000/).
 
 
 ## Starter Data (Optional)
