@@ -7,7 +7,7 @@ services:
       - ./frontend:/app
     environment:
       - FLASK_ENV=development
-      - BACKEND_URL=http://45.55.197.23:5001
+      # - BACKEND_URL=http://45.55.197.23:5001
     depends_on:
       - backend
 
@@ -19,14 +19,14 @@ services:
       - ./backend:/src/backend
     environment:
       - FLASK_ENV=development
-      - MONGO_URI=mongodb://mongodb:27017/
+      # - MONGO_URI=mongodb://mongodb:27017/
     depends_on:
       - mongodb
 
   mongodb:
     image: mongo:latest
     ports:
-      - "27017:27017"
+      # - "27017:27017"
     volumes:
       - mongodb_data:/data/db
       
